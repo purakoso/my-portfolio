@@ -194,7 +194,7 @@
       }
     }
   },
-  "aboutMe": "Hello 👋 I'm Bayu Prakoso a gatsby starter which is focus on simplicity and extensibility. It's build with Gatsby(duh), [Rebass](https://jxnblk.com/rebass/) (styled-component system) and [Contentful](https://www.contentful.com/).\n\nThe starter will give you 4 sections (it's really easy to add more if you want 😃):\n* [Landing:](#home) Displays a nice greeting with your name, also your roles (what you  are) and all your social links.\n* [About:](#about) Show the about section where you can write about who you are, what you like to do, etc. Also you can add a photo next to it!\n* [Project:](#projects) Displays a card for all your project that you've made and also the posibility to link with github or and external link.\n* [Writing:](#writing) Take the information about your medium user and show up to 6 stories as cards with the link to Medium.",
+  "aboutMe": "Hello World! \n\nI'm a Front End Developer and also a CSS enthusiast. I'm a love cat so much and someday I hope want to explore world with my ship like Monkey D. Luffy 🥰. I wrote code from the design and deliver it as static pages and Single Page Apps(SPA). My skills include HTML CSS, JS, [React JS](https://reactjs.org), [Svelte JS](https://svelte.dev) but are not limited to [Sass](https://sass-lang.com), [Handlebars](https://handlebarsjs.com), [Google AMP](https://amp.dev) and some design and prototyping tools such as [Figma](https://www.figma.com), [Adobe XD](https://www.adobe.com/products/xd.html), [Framer](https://www.framer.com), etc",
   "mediumUser": "@purakoso",
   "projects": [
     {
@@ -209,7 +209,7 @@
         "id": "6Y7EIx73nUCWuoIWcsuM00",
         "type": "Entry",
         "createdAt": "2020-09-06T09:49:46.314Z",
-        "updatedAt": "2020-09-06T09:49:46.314Z",
+        "updatedAt": "2020-09-21T07:59:55.671Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -217,7 +217,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 1,
+        "revision": 2,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -228,8 +228,8 @@
         "locale": "en-US"
       },
       "fields": {
-        "name": "Facebook",
-        "publishedDate": "2004-09-01T00:00+02:00",
+        "name": "Pijaru",
+        "publishedDate": "2017-09-14T00:00+02:00",
         "logo": {
           "sys": {
             "space": {
@@ -239,10 +239,10 @@
                 "id": "m1njcawj17p3"
               }
             },
-            "id": "u3Um4zkMrAaQioyq4oSIW",
+            "id": "OB9ieT60Jhdk8G0aFBD7V",
             "type": "Asset",
-            "createdAt": "2020-09-06T09:49:38.797Z",
-            "updatedAt": "2020-09-06T09:49:38.797Z",
+            "createdAt": "2020-09-21T07:53:54.564Z",
+            "updatedAt": "2020-09-21T07:53:54.564Z",
             "environment": {
               "sys": {
                 "id": "master",
@@ -254,25 +254,25 @@
             "locale": "en-US"
           },
           "fields": {
-            "title": "Facebook logo",
-            "description": "Facebook logo",
+            "title": "Pijaru Logo",
+            "description": "Pijaru logo asset",
             "file": {
-              "url": "//images.ctfassets.net/m1njcawj17p3/u3Um4zkMrAaQioyq4oSIW/e5937fcfd9780dac25d9720d07a02f44/600px-Facebook_logo__28square_29.png",
+              "url": "//images.ctfassets.net/m1njcawj17p3/OB9ieT60Jhdk8G0aFBD7V/47e1bc998d5f921bb3927665cc445191/download.png",
               "details": {
-                "size": 13209,
+                "size": 3765,
                 "image": {
-                  "width": 600,
-                  "height": 600
+                  "width": 225,
+                  "height": 225
                 }
               },
-              "fileName": "600px-Facebook_logo_%28square%29.png",
+              "fileName": "download.png",
               "contentType": "image/png"
             }
           }
         },
-        "repositoryUrl": "https://github.com/facebook",
-        "description": "Facebook is a popular free social networking website that allows registered users to keep in touch with friends.",
-        "projectUrl": "http://facebook.com/",
+        "repositoryUrl": "https://github.com/purakoso/pijaru-landing",
+        "description": "Pijaru is known for its heartwarming short films and web series, offbeat comedy work, exciting documentaries, and award-winning motion graphics storytelling",
+        "projectUrl": "https://www.pijaru.com/",
         "type": "Web"
       }
     },
@@ -288,7 +288,7 @@
         "id": "2GKNR2f4z6IwAg6a2MmKCc",
         "type": "Entry",
         "createdAt": "2020-09-06T09:49:46.905Z",
-        "updatedAt": "2020-09-06T09:49:46.905Z",
+        "updatedAt": "2020-09-21T08:02:21.425Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -296,7 +296,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 1,
+        "revision": 2,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -307,8 +307,8 @@
         "locale": "en-US"
       },
       "fields": {
-        "name": "Gatsby JS",
-        "publishedDate": "2016-09-01T00:00+02:00",
+        "name": "Kompasgramedia",
+        "publishedDate": "2020-08-17T00:00+02:00",
         "logo": {
           "sys": {
             "space": {
@@ -318,10 +318,10 @@
                 "id": "m1njcawj17p3"
               }
             },
-            "id": "6rkOXCpyvuekYIgy6U6gGu",
+            "id": "4rxFewzWeZRieaMw9dfhIJ",
             "type": "Asset",
-            "createdAt": "2020-09-06T09:49:39.268Z",
-            "updatedAt": "2020-09-06T09:49:39.268Z",
+            "createdAt": "2020-09-21T07:54:52.228Z",
+            "updatedAt": "2020-09-21T07:54:52.228Z",
             "environment": {
               "sys": {
                 "id": "master",
@@ -333,26 +333,26 @@
             "locale": "en-US"
           },
           "fields": {
-            "title": "Gatsby logo",
-            "description": "Gatsby logo",
+            "title": "KG Logo",
+            "description": "Kompasgramedia logo asset",
             "file": {
-              "url": "//images.ctfassets.net/m1njcawj17p3/6rkOXCpyvuekYIgy6U6gGu/9d487102c881487c9b77b56f5acfc5cb/1_t5EnAu3eSWJA0rmZ9v3xuw.png",
+              "url": "//images.ctfassets.net/m1njcawj17p3/4rxFewzWeZRieaMw9dfhIJ/c6669732ad63c2f9e3e25056e5202871/unnamed.png",
               "details": {
-                "size": 111702,
+                "size": 26793,
                 "image": {
-                  "width": 1600,
-                  "height": 1600
+                  "width": 195,
+                  "height": 194
                 }
               },
-              "fileName": "1*t5EnAu3eSWJA0rmZ9v3xuw.png",
+              "fileName": "unnamed.png",
               "contentType": "image/png"
             }
           }
         },
-        "repositoryUrl": "https://github.com/gatsbyjs/gatsby",
-        "description": " Gatsby is a React-based, GraphQL powered, static site generator. Overall think, part Jekyll, part create-react-app.",
-        "projectUrl": "https://www.gatsbyjs.org/",
-        "type": "Framework"
+        "repositoryUrl": "https://github.com/purakoso/kg-comprof",
+        "description": "Kompasgramedia is one of the biggest multi industry which have a starting point from the media sector",
+        "projectUrl": "https://www.kompasgramedia.com/",
+        "type": "Web"
       }
     },
     {
@@ -367,7 +367,7 @@
         "id": "5paxSRHbAkmgMc4WSW8S66",
         "type": "Entry",
         "createdAt": "2020-09-06T09:49:47.547Z",
-        "updatedAt": "2020-09-06T09:49:47.547Z",
+        "updatedAt": "2020-09-21T08:06:18.062Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -375,7 +375,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 1,
+        "revision": 2,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -386,8 +386,8 @@
         "locale": "en-US"
       },
       "fields": {
-        "name": "Google",
-        "publishedDate": "1998-06-19T00:00+02:00",
+        "name": "Wakalahmu",
+        "publishedDate": "2019-06-13T00:00+02:00",
         "logo": {
           "sys": {
             "space": {
@@ -397,10 +397,10 @@
                 "id": "m1njcawj17p3"
               }
             },
-            "id": "3AorRmtWOsGQ4o8gK0YWKG",
+            "id": "3ucgaMu5wlcKFHq5mT97Pf",
             "type": "Asset",
-            "createdAt": "2020-09-06T09:49:37.385Z",
-            "updatedAt": "2020-09-06T09:49:37.385Z",
+            "createdAt": "2020-09-21T07:56:23.352Z",
+            "updatedAt": "2020-09-21T07:56:23.352Z",
             "environment": {
               "sys": {
                 "id": "master",
@@ -412,25 +412,25 @@
             "locale": "en-US"
           },
           "fields": {
-            "title": "Google Logo",
-            "description": "Logo from Google",
+            "title": "Wakalahmu Logo",
+            "description": "Wakalahmu logo",
             "file": {
-              "url": "//images.ctfassets.net/m1njcawj17p3/3AorRmtWOsGQ4o8gK0YWKG/7d34e3d586f7022da6c47e244550b373/google_PNG19630.png",
+              "url": "//images.ctfassets.net/m1njcawj17p3/3ucgaMu5wlcKFHq5mT97Pf/0dae63fd8c2bb233ebc1f2ee41a1eff7/download.jpg",
               "details": {
-                "size": 39228,
+                "size": 4003,
                 "image": {
-                  "width": 1000,
-                  "height": 1000
+                  "width": 225,
+                  "height": 225
                 }
               },
-              "fileName": "google_PNG19630.png",
-              "contentType": "image/png"
+              "fileName": "download.jpg",
+              "contentType": "image/jpeg"
             }
           }
         },
-        "repositoryUrl": "https://github.com/google",
-        "description": "It is the most-used search engine on the World Wide Web, handling more than three billion searches each day.",
-        "projectUrl": "https://www.google.com/",
+        "repositoryUrl": "https://github.com/purakoso/",
+        "description": "Wakalahmu is an online portal that provides information about sharia insurance products.",
+        "projectUrl": "https://www.wakalahmu.com/",
         "type": "Web"
       }
     }
