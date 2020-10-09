@@ -93,7 +93,7 @@
         "id": "114ApRkJZq640w8G2GwM8w",
         "type": "Entry",
         "createdAt": "2020-09-06T09:49:44.308Z",
-        "updatedAt": "2020-09-06T09:49:44.308Z",
+        "updatedAt": "2020-09-21T09:31:42.317Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -101,7 +101,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 1,
+        "revision": 2,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -113,7 +113,7 @@
       },
       "fields": {
         "name": "Contact me",
-        "url": "https://emanuelsuriano.typeform.com/to/OeETl6",
+        "url": "mailto:name@bayuprakoso.adi@gmail.com",
         "fontAwesomeIcon": "envelope"
       }
     },
@@ -166,7 +166,7 @@
       "id": "6nf3rNaaVaUqYcoAcciSeC",
       "type": "Asset",
       "createdAt": "2020-09-06T09:49:37.845Z",
-      "updatedAt": "2020-09-06T09:49:37.845Z",
+      "updatedAt": "2020-10-09T08:05:18.492Z",
       "environment": {
         "sys": {
           "id": "master",
@@ -174,27 +174,27 @@
           "linkType": "Environment"
         }
       },
-      "revision": 1,
+      "revision": 2,
       "locale": "en-US"
     },
     "fields": {
       "title": "Mate Logo",
       "description": "Mate Logo",
       "file": {
-        "url": "//images.ctfassets.net/m1njcawj17p3/6nf3rNaaVaUqYcoAcciSeC/574c42413f41e84697ba421364d20d22/Mate_Logo.png",
+        "url": "//images.ctfassets.net/m1njcawj17p3/6nf3rNaaVaUqYcoAcciSeC/0e49114fb9bd440ba64bec3870226aee/batman-solid.png",
         "details": {
-          "size": 52527,
+          "size": 8918,
           "image": {
-            "width": 946,
-            "height": 948
+            "width": 950,
+            "height": 950
           }
         },
-        "fileName": "Mate Logo.png",
+        "fileName": "batman-solid.png",
         "contentType": "image/png"
       }
     }
   },
-  "aboutMe": "Hello World! \n\nI'm a Front End Developer and also a CSS enthusiast. I'm a love cat so much and someday I hope want to explore world with my ship like Monkey D. Luffy 🥰. I wrote code from the design and deliver it as static pages and Single Page Apps(SPA). My skills include HTML CSS, JS, [React JS](https://reactjs.org), [Svelte JS](https://svelte.dev) but are not limited to [Sass](https://sass-lang.com), [Handlebars](https://handlebarsjs.com), [Google AMP](https://amp.dev) and some design and prototyping tools such as [Figma](https://www.figma.com), [Adobe XD](https://www.adobe.com/products/xd.html), [Framer](https://www.framer.com), etc",
+  "aboutMe": "Hello World! \n\nI'm a Front End Developer and also a CSS enthusiast. I love cat so much and someday I hope want to explore world with my ship like Monkey D. Luffy 🥰. I wrote code from the design and deliver it as static pages and Single Page Apps(SPA). My skills include HTML CSS, JS, [React JS](https://reactjs.org), [Svelte JS](https://svelte.dev) but are not limited to [Sass](https://sass-lang.com), [Handlebars](https://handlebarsjs.com), [Google AMP](https://amp.dev) and some design and prototyping tools such as [Figma](https://www.figma.com), [Adobe XD](https://www.adobe.com/products/xd.html), [Framer](https://www.framer.com), etc",
   "mediumUser": "@purakoso",
   "projects": [
     {
@@ -285,85 +285,6 @@
             "id": "m1njcawj17p3"
           }
         },
-        "id": "2GKNR2f4z6IwAg6a2MmKCc",
-        "type": "Entry",
-        "createdAt": "2020-09-06T09:49:46.905Z",
-        "updatedAt": "2020-09-21T08:02:21.425Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "revision": 2,
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "project"
-          }
-        },
-        "locale": "en-US"
-      },
-      "fields": {
-        "name": "Kompasgramedia",
-        "publishedDate": "2020-08-17T00:00+02:00",
-        "logo": {
-          "sys": {
-            "space": {
-              "sys": {
-                "type": "Link",
-                "linkType": "Space",
-                "id": "m1njcawj17p3"
-              }
-            },
-            "id": "4rxFewzWeZRieaMw9dfhIJ",
-            "type": "Asset",
-            "createdAt": "2020-09-21T07:54:52.228Z",
-            "updatedAt": "2020-09-21T07:54:52.228Z",
-            "environment": {
-              "sys": {
-                "id": "master",
-                "type": "Link",
-                "linkType": "Environment"
-              }
-            },
-            "revision": 1,
-            "locale": "en-US"
-          },
-          "fields": {
-            "title": "KG Logo",
-            "description": "Kompasgramedia logo asset",
-            "file": {
-              "url": "//images.ctfassets.net/m1njcawj17p3/4rxFewzWeZRieaMw9dfhIJ/c6669732ad63c2f9e3e25056e5202871/unnamed.png",
-              "details": {
-                "size": 26793,
-                "image": {
-                  "width": 195,
-                  "height": 194
-                }
-              },
-              "fileName": "unnamed.png",
-              "contentType": "image/png"
-            }
-          }
-        },
-        "repositoryUrl": "https://github.com/purakoso/kg-comprof",
-        "description": "Kompasgramedia is one of the biggest multi industry which have a starting point from the media sector",
-        "projectUrl": "https://www.kompasgramedia.com/",
-        "type": "Web"
-      }
-    },
-    {
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "m1njcawj17p3"
-          }
-        },
         "id": "5paxSRHbAkmgMc4WSW8S66",
         "type": "Entry",
         "createdAt": "2020-09-06T09:49:47.547Z",
@@ -431,6 +352,85 @@
         "repositoryUrl": "https://github.com/purakoso/",
         "description": "Wakalahmu is an online portal that provides information about sharia insurance products.",
         "projectUrl": "https://www.wakalahmu.com/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "m1njcawj17p3"
+          }
+        },
+        "id": "2GKNR2f4z6IwAg6a2MmKCc",
+        "type": "Entry",
+        "createdAt": "2020-09-06T09:49:46.905Z",
+        "updatedAt": "2020-09-21T08:02:21.425Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Kompasgramedia",
+        "publishedDate": "2020-08-17T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "m1njcawj17p3"
+              }
+            },
+            "id": "4rxFewzWeZRieaMw9dfhIJ",
+            "type": "Asset",
+            "createdAt": "2020-09-21T07:54:52.228Z",
+            "updatedAt": "2020-09-21T07:54:52.228Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "KG Logo",
+            "description": "Kompasgramedia logo asset",
+            "file": {
+              "url": "//images.ctfassets.net/m1njcawj17p3/4rxFewzWeZRieaMw9dfhIJ/c6669732ad63c2f9e3e25056e5202871/unnamed.png",
+              "details": {
+                "size": 26793,
+                "image": {
+                  "width": 195,
+                  "height": 194
+                }
+              },
+              "fileName": "unnamed.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/purakoso/kg-comprof",
+        "description": "Kompasgramedia is one of the biggest multi industry which have a starting point from the media sector",
+        "projectUrl": "https://www.kompasgramedia.com/",
         "type": "Web"
       }
     }
