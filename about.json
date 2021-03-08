@@ -40,7 +40,7 @@
       },
       "fields": {
         "name": "Github",
-        "url": "https://github.com/purakoso",
+        "url": "https://github.com/byprakoso",
         "fontAwesomeIcon": "github"
       }
     },
@@ -76,7 +76,7 @@
       },
       "fields": {
         "name": "Medium",
-        "url": "https://medium.com/@purakoso",
+        "url": "https://medium.com/@byprakoso",
         "fontAwesomeIcon": "medium"
       }
     },
@@ -305,7 +305,7 @@
             }
           }
         },
-        "repositoryUrl": "https://github.com/purakoso/pijaru-landing",
+        "repositoryUrl": "https://github.com/byprakoso/pijaru-landing",
         "description": "Pijaru is known for its heartwarming short films and web series, offbeat comedy work, exciting documentaries, and award-winning motion graphics storytelling",
         "projectUrl": "https://www.pijaru.com/",
         "type": "Web"
@@ -384,7 +384,7 @@
             }
           }
         },
-        "repositoryUrl": "https://github.com/purakoso/",
+        "repositoryUrl": "https://github.com/byprakoso/",
         "description": "Wakalahmu is an online portal that provides information about sharia insurance products.",
         "projectUrl": "https://www.wakalahmu.com/",
         "type": "Web"
@@ -463,7 +463,7 @@
             }
           }
         },
-        "repositoryUrl": "https://github.com/purakoso/kg-comprof",
+        "repositoryUrl": "https://github.com/byprakoso/kg-comprof",
         "description": "Kompasgramedia is one of the biggest multi industry which have a starting point from the media sector",
         "projectUrl": "https://www.kompasgramedia.com/",
         "type": "Web"
