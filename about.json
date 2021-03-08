@@ -1,11 +1,10 @@
 {
   "name": "Bay",
-  "description": "Gatsby v2 starter to create a top notch portfolio!",
+  "description": "My first portfolio as UX Engineer",
   "roles": [
-    "Fast Learner 🚀",
-    "Tech Savvy 📱",
-    "Geek 🔧",
-    "Cat Face 🐱",
+    "UX Engineer🔧",
+    "Front End Developer 📱",
+    "Design Enthusiast ✨",
     "Nakama ☠️"
   ],
   "socialLinks": [
@@ -21,7 +20,7 @@
         "id": "4SrlLN9bt6Yew2UyGgM06a",
         "type": "Entry",
         "createdAt": "2020-09-06T09:49:42.699Z",
-        "updatedAt": "2020-09-06T09:49:42.699Z",
+        "updatedAt": "2020-10-11T12:47:34.606Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -29,7 +28,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 1,
+        "revision": 2,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -41,7 +40,7 @@
       },
       "fields": {
         "name": "Github",
-        "url": "https://github.com/EmaSuriano/gatsby-starter-mate/blob/master/README.md",
+        "url": "https://github.com/purakoso",
         "fontAwesomeIcon": "github"
       }
     },
@@ -93,7 +92,7 @@
         "id": "114ApRkJZq640w8G2GwM8w",
         "type": "Entry",
         "createdAt": "2020-09-06T09:49:44.308Z",
-        "updatedAt": "2020-09-21T09:31:42.317Z",
+        "updatedAt": "2020-10-11T14:19:41.175Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -101,7 +100,7 @@
             "linkType": "Environment"
           }
         },
-        "revision": 2,
+        "revision": 4,
         "contentType": {
           "sys": {
             "type": "Link",
@@ -113,7 +112,7 @@
       },
       "fields": {
         "name": "Contact me",
-        "url": "mailto:name@bayuprakoso.adi@gmail.com",
+        "url": "https://tripetto.app/run/Y91JM6P6XJ",
         "fontAwesomeIcon": "envelope"
       }
     },
@@ -151,6 +150,42 @@
         "name": "Twitter",
         "url": "https://twitter.com/mbokdjah",
         "fontAwesomeIcon": "twitter"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "m1njcawj17p3"
+          }
+        },
+        "id": "3Nrt7wHFoHGDOKHawDxUsp",
+        "type": "Entry",
+        "createdAt": "2021-03-08T04:58:08.275Z",
+        "updatedAt": "2021-03-08T05:04:24.223Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Codepen",
+        "url": "https://codepen.io/byprakoso",
+        "fontAwesomeIcon": "codepen"
       }
     }
   ],
@@ -194,8 +229,8 @@
       }
     }
   },
-  "aboutMe": "Hello World! \n\nI'm a Front End Developer and also a CSS enthusiast. I love cat so much and someday I hope want to explore world with my ship like Monkey D. Luffy 🥰. I wrote code from the design and deliver it as static pages and Single Page Apps(SPA). My skills include HTML CSS, JS, [React JS](https://reactjs.org), [Svelte JS](https://svelte.dev) but are not limited to [Sass](https://sass-lang.com), [Handlebars](https://handlebarsjs.com), [Google AMP](https://amp.dev) and some design and prototyping tools such as [Figma](https://www.figma.com), [Adobe XD](https://www.adobe.com/products/xd.html), [Framer](https://www.framer.com), etc",
-  "mediumUser": "@purakoso",
+  "aboutMe": "Heso! \n\nI'm a UX Engineer who'd like to play with design too. I'd love to make a website with three principles such as lightweight, interactive and of course mobile friendly. Currently I'd focus to diggin how far your web browser could bare with interactivity and animation. My skills include HTML CSS, JS, [Sass](https://sass-lang.com) but are not limited to [Svelte JS](https://svelte.dev) ,[Handlebars](https://handlebarsjs.com), [Google AMP](https://amp.dev) and some design and prototyping tools such as [Figma](https://www.figma.com), [Adobe XD](https://www.adobe.com/products/xd.html), [Framer](https://www.framer.com), etc.\n\nSomeday, I want to explore the world with my \"own ship\" with some crews like my fav fictional character, Monkey D Luffy 🖖",
+  "mediumUser": "@byprakoso",
   "projects": [
     {
       "sys": {
